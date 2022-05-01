@@ -28,10 +28,18 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+## My project list 
 
 ***
 
-## My project list 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- `[WORKING ON]` [Nice-Forum / Diploma project / Back End + Front End](https://github.com/Helgen97/Nice-Forum)
+
+***
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -39,10 +47,14 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 - [Local chat(Sockets and Java Swing)](https://github.com/Helgen97/PersonalChat)
 - [Telegram bot for Hookah Bar Chill-Out](https://github.com/Helgen97/ChillBot)
 
+*** 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - [Hometasks from Front-End HTML/CSS Courses](https://github.com/Helgen97/fe-start-011221)
+
+***
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
