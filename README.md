@@ -58,7 +58,7 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- [Hometasks from Front-End JS Courses](https://github.com/Helgen97/fe-pro-150222)
+- [Hometasks from Front-End JS Courses](https://github.com/Helgen97/fe-pro-26.05.22)
 
 ## Some profile statistic
 
