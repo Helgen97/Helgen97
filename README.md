@@ -49,7 +49,6 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - [Nice-Forum / Diploma project / Back End + Front End](https://github.com/Helgen97/Nice-Forum)
-- `[Working on]`[Underdog Barbershop Kiev Landing Site](https://github.com/Helgen97/underdog-barbershop)
 
 ***
 
