@@ -6,7 +6,7 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 
 ***
 
-#### My Portfolio Site can be found [here](helgen97.github.io/Portfolio/ "GitHub Pages")
+#### My Portfolio Site can be found [here](https://helgen97.github.io/Portfolio/ "GitHub Pages")
 
 ***
 
