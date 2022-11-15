@@ -55,13 +55,13 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - [Nice-Forum / Diploma project / Back End + Front End](https://github.com/Helgen97/Nice-Forum)
-- [Ukrainian Greek Catholic Church Site Project / Commercial Project /]([https://github.com/Helgen97/Nice-Forum](https://github.com/Helgen97/ugcc-project))
+- [Ukrainian Greek Catholic Church Site Project / Commercial Project](https://github.com/Helgen97/ugcc-project)
 
 ***
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-- [ProfItSoft Intership Tasks]([https://github.com/Helgen97/java-pro-online-150921](https://github.com/Helgen97/profitsoft))
+- [ProfItSoft Intership Tasks](https://github.com/Helgen97/profitsoft)
 - [Hometasks from Java Courses](https://github.com/Helgen97/java-pro-online-150921)
 - [Local chat(Sockets and Java Swing)](https://github.com/Helgen97/PersonalChat)
 - [Telegram bot for Hookah Bar Chill-Out](https://github.com/Helgen97/ChillBot)
