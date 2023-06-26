@@ -21,14 +21,21 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 **Frameworks, Platforms and Libraries** <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 **Database** <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**ORM** <br>
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 **Design** <br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -44,6 +51,11 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 **Others** <br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Version Control** <br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## My project list 
 
@@ -54,13 +66,15 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- [Nice-Forum / Diploma project / Back End + Front End](https://github.com/Helgen97/Nice-Forum)
+- [Filosof Barbershop Landing Site / Commercial Project](https://github.com/Helgen97/filosof)
 - [Ukrainian Greek Catholic Church Site Project / Commercial Project](https://github.com/Helgen97/ugcc-project)
+- [Nice-Forum / Diploma project / Back End + Front End](https://github.com/Helgen97/Nice-Forum)
 
 ***
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+- [Atola Technology Test Task](https://github.com/Helgen97/Atola-Technology-Test-Task)
 - [ProfItSoft Intership Tasks](https://github.com/Helgen97/profitsoft)
 - [Hometasks from Java Courses](https://github.com/Helgen97/java-pro-online-150921)
 - [Local chat(Sockets and Java Swing)](https://github.com/Helgen97/PersonalChat)
@@ -77,6 +91,8 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 - [Hometasks from Front-End JS Courses](https://github.com/Helgen97/fe-pro-26.05.22)
 
 ## Some profile statistic
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Helgen97&theme=solarized_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helgen97&layout=compact)](https://github.com/Helgen97/github-readme-stats)
 
