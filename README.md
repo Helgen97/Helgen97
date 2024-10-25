@@ -66,6 +66,7 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+- [Make Up School Site / Commercial Project](https://github.com/Helgen97/make_up_school)
 - [Filosof Barbershop Landing Site / Commercial Project](https://github.com/Helgen97/filosof)
 - [Ukrainian Greek Catholic Church Site Project / Commercial Project](https://github.com/Helgen97/ugcc-project)
 - [Nice-Forum / Diploma project / Back End + Front End](https://github.com/Helgen97/Nice-Forum)
