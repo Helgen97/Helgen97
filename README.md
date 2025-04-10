@@ -1,8 +1,15 @@
 ![Greetings](./header.png)
 
-*It's me, Dmytro Donchenko!*
+***Dmytro Donchenko***<br>
+**Software Developer from Ukraine**
 
-I'm from Ukraine. I started learning programming not so long ago. <br>At my profile you can see all my projects that i've made from beggining my education.<br>
+I've been diving into programming since 2021, focusing primarily on **Java** and **React**. 
+
+Currently, I work as a Service Partner for Advantive on the Pepperi project, where I contribute to building robust solutions. 
+
+In my free time, I enjoy working on personal projects and sharpening my coding skills.
+
+Check out my repositories to see what I’ve been building!
 
 ***
 
@@ -17,6 +24,8 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
 **Frameworks, Platforms and Libraries** <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,6 +37,9 @@ I'm from Ukraine. I started learning programming not so long ago. <br>At my prof
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+
 
 **Database** <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
